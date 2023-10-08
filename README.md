@@ -32,7 +32,7 @@ The Auto-WCEBleedGen challenge aims to provide an opportunity to develop, test a
   <img src="Best Images/Validation/Classification/img- (1042).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
   <img src="Best Images/Validation/Classification/img- (1122).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
   <img src="Best Images/Validation/Classification/img- (1213).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-- ### Detectiion
+- ### Detection
   <img src="Best Images/Validation/Segmentation/img- (30).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
   <img src="Best Images/Validation/Segmentation/img- (61).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
   <img src="Best Images/Validation/Segmentation/img- (162).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
@@ -48,31 +48,31 @@ The Auto-WCEBleedGen challenge aims to provide an opportunity to develop, test a
 ## Testing Dataset 1
 
 - ### Classification
-  <img src="Best Images/Testing Dataset 1/Classification/A0021.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 1/Classification/A0036.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 1/Classification/A0038.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 1/Classification/A0046.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 1/Classification/A0047.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-- ### Detectiion
-  <img src="Best Images/Testing Dataset 1/Segmentation/A0021.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 1/Segmentation/A0036.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 1/Segmentation/A0038.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 1/Segmentation/A0046.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 1/Segmentation/A0047.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 1/Classification/A0021.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 1/Classification/A0036.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 1/Classification/A0038.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 1/Classification/A0046.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 1/Classification/A0047.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+- ### Detection
+  <img src="Best Images/Test Dataset 1/Segmentation/A0021.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 1/Segmentation/A0036.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 1/Segmentation/A0038.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 1/Segmentation/A0046.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 1/Segmentation/A0047.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
 - ### Interpretability Plot
 
 ## Testing Dataset 2
 
 - ### Classification
-  <img src="Best Images/Testing Dataset 2/Classification/A0051.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 2/Classification/A0450.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 2/Classification/A0500.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 2/Classification/A0507.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 2/Classification/A0550.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-- ### Detectiion
-  <img src="Best Images/Testing Dataset 2/Segmentation/A0051.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 2/Segmentation/A0450.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 2/Segmentation/A0500.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 2/Segmentation/A0507.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
-  <img src="Best Images/Testing Dataset 2/Segmentation/A0550.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 2/Classification/A0051.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 2/Classification/A0450.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 2/Classification/A0500.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 2/Classification/A0507.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 2/Classification/A0550.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+- ### Detection
+  <img src="Best Images/Test Dataset 2/Segmentation/A0051.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 2/Segmentation/A0450.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 2/Segmentation/A0500.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 2/Segmentation/A0507.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
+  <img src="Best Images/Test Dataset 2/Segmentation/A0550.png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 172px">
 - ### Interpretability Plot
