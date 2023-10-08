@@ -22,15 +22,16 @@ The Auto-WCEBleedGen challenge aims to provide an opportunity to develop, test a
 ## Validation Dataset
 
 - #### Classification
-  <img src="../Best Images/Validation/Classification/img- (30).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
-  <img src="/path/to/img.jpg" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
-  <img src="/path/to/img.jpg" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
-  <img src="/path/to/img.jpg" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
-  <img src="/path/to/img.jpg" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
-  <img src="/path/to/img.jpg" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
-  <img src="/path/to/img.jpg" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
-  <img src="/path/to/img.jpg" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
-  <img src="/path/to/img.jpg" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
+  <img src="Best Images/Validation/Classification/img- (30).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
+  <img src="Best Images/Validation/Classification/img- (61).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
+  <img src="Best Images/Validation/Classification/img- (162).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
+  <img src="Best Images/Validation/Classification/img- (228).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
+  <img src="Best Images/Validation/Classification/img- (635).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
+  <img src="Best Images/Validation/Classification/img- (649).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
+  <img src="Best Images/Validation/Classification/img- (990).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
+  <img src="Best Images/Validation/Classification/img- (1042).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
+  <img src="Best Images/Validation/Classification/img- (1122).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
+  <img src="Best Images/Validation/Classification/img- (1213).png" alt="Alt text" style="display: inline-block; margin: 0 auto; max-width: 224px">
 - #### Detectiion
 - #### Interpretability Plot
 
