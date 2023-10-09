@@ -68,6 +68,7 @@ The Auto-WCEBleedGen challenge aims to provide an opportunity to develop, test a
     <img src="Interpretabilty Plots/Validation/Segmentation/ip_img- (1213).png" alt="Alt text" style="display: inline-block; margin: 0 auto; width: 128px">
     
 ## Testing Dataset 1
+<a href="test1_labels.xlsx">Test Dataset 1 Predicted Class Labels</a>
 - ### Classification
   <img src="Best Images/Test Dataset 1/Classification/A0021.png" alt="Alt text" style="display: inline-block; margin: 0 auto; width: 128px">
   <img src="Best Images/Test Dataset 1/Classification/A0036.png" alt="Alt text" style="display: inline-block; margin: 0 auto; width: 128px">
@@ -95,6 +96,7 @@ The Auto-WCEBleedGen challenge aims to provide an opportunity to develop, test a
     <img src="Interpretabilty Plots/Test Dataset 1/Segmentation/ip_A0047.png" alt="Alt text" style="display: inline-block; margin: 0 auto; width: 128px">
 
 ## Testing Dataset 2
+<a href="test2_labels.xlsx">Test Dataset 2 Predicted Class Labels</a>
 - ### Classification
   <img src="Best Images/Test Dataset 2/Classification/A0051.png" alt="Alt text" style="display: inline-block; margin: 0 auto; width: 128px">
   <img src="Best Images/Test Dataset 2/Classification/A0450.png" alt="Alt text" style="display: inline-block; margin: 0 auto; width: 128px">
