@@ -1,0 +1,7 @@
+train: ../path/to/train_folder
+val: ../path/to/val_folder
+
+nc: 1
+
+names:
+  0: bleeding
