@@ -29,14 +29,14 @@ import cv2
 
 # Splitting bleeding folder into train and val datasets in ratio 0.8 and 0.2 respectively
 input_folder = 'path/to/training_dataset/bleeding'
-output_folder = 'path/to/output_folder/Segmentation/'
+output_folder = 'path/to/split_folder/Segmentation/'
 
 # Split the dataset into training and validation sets
 splitfolders.ratio(input_folder, output_folder, seed=42, ratio=(.8, .2), group_prefix=None)
 
 # Creating directries for storing txt file containing polygon masks
-os.mkdir('/content/Segmentation/train/labels/')
-os.mkdir('/content/Segmentation/val/labels/')
+os.mkdir('path/to/split_folder/Segmentation/train/labels/')
+os.mkdir('path/to/split_folder/Segmentation/val/labels/')
 
 # Method for extracting polygon coordinates from given binary masks
 def make_polygons(input_dir, output_dir):
@@ -74,16 +74,16 @@ def make_polygons(input_dir, output_dir):
           f.close()
 
 # passing the input directory and output directory
-input_dir = '/content/Segmentation/train/Annotations/'
-output_dir = '/content/Segmentation/train/labels/'
+input_dir = 'path/to/split_folder/Segmentation/train/Annotations/'
+output_dir = 'path/to/split_folder/Segmentation/train/labels/'
 make_polygons(input_dir, output_dir)
 
 # passing the input directory and output directory
-input_dir = '/content/Segmentation/val/Annotations/'
-output_dir = '/content/Segmentation/val/labels/'
+input_dir = 'path/to/split_folder/Segmentation/val/Annotations/'
+output_dir = 'path/to/split_folder/Segmentation/val/labels/'
 make_polygons(input_dir, output_dir)
 
-src = '/content/Segmentation/'
+src = 'path/to/split_folder/Segmentation/'
 
 # Copying the files from Bleeding Images and labels folder to training and validation folder
 for folder in ['Images/', 'labels/']:
@@ -99,17 +99,17 @@ def rename_labels(folder_path):
             os.rename(os.path.join(folder_path, filename), os.path.join(folder_path, new_filename))
 
 # passing the folder path for renaming
-folder_path = "/content/Segmentation/train/"
+folder_path = "path/to/split_folder/Segmentation/train/"
 rename_labels(folder_path)
-folder_path = "/content/Segmentation/val/"
+folder_path = "path/to/split_folder/Segmentation/val/"
 rename_labels(folder_path)
 
 # Removing the extra folders not required for segmentation
-shutil.rmtree('/content/Segmentation/train/Bounding boxes/')
-shutil.rmtree('/content/Segmentation/val/Bounding boxes/')
-shutil.rmtree('/content/Segmentation/train/Annotations/')
-shutil.rmtree('/content/Segmentation/val/Annotations/')
-shutil.rmtree('/content/Segmentation/train/Images/')
-shutil.rmtree('/content/Segmentation/val/Images/')
-shutil.rmtree('/content/Segmentation/train/labels/')
-shutil.rmtree('/content/Segmentation/val/labels/')
+shutil.rmtree('path/to/split_folder/Segmentation/train/Bounding boxes/')
+shutil.rmtree('path/to/split_folder/Segmentation/val/Bounding boxes/')
+shutil.rmtree('path/to/split_folder/Segmentation/train/Annotations/')
+shutil.rmtree('path/to/split_folder/Segmentation/val/Annotations/')
+shutil.rmtree('path/to/split_folder/Segmentation/train/Images/')
+shutil.rmtree('path/to/split_folder/Segmentation/val/Images/')
+shutil.rmtree('path/to/split_folder/Segmentation/train/labels/')
+shutil.rmtree('path/to/split_folder/Segmentation/val/labels/')
