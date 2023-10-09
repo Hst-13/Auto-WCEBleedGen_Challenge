@@ -7,17 +7,17 @@ The Auto-WCEBleedGen challenge aims to provide an opportunity to develop, test a
 #### Classification
 | Model | Accuracy | Recall | F1-Score |
 |----------|--------|----------|-------|
-| Yolov8m-cls |    1     |   1    |     1    |
+| <a href="Models">Yolov8m-cls</a> |    1     |   1    |     1    |
 
 #### Detection (Box)
 | Model | AP | mAP-50 | mAP50-95 |
 |-------|----|--------|-------|
-| Yolov8n-seg | 0.756  | 0.756 | 0.444 |
+| <a href="Models">Yolov8n-seg<a> | 0.756  | 0.756 | 0.444 |
 
 #### Segmentation (Mask)
 | Model | AP | mAP-50 | mAP50-95 |
 |-------|----|--------|-------|
-| Yolov8n-seg | 0.69  | 0.69 | 0.31 |
+| <a href="Models">Yolov8n-seg</a> | 0.69  | 0.69 | 0.31 |
 
 ## Validation Dataset
 
